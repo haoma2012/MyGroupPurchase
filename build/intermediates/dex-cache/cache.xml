@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d859fbbe22af7194fcf3463e19e29ebf0b8c4cb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.orhanobut\logger\1.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="109f0ec452925b46b500e8d28ee2cd2d1a0145a9">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.orhanobut-logger-1.4_a019d3604cd9f2733834e7777a33e3cdb8a725d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_6320ebd979aaab44f07250f3d2efa8c6a3b512c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_7f81f56a8025a75a73d23b1c3ae2ff2a823cbd67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.jakewharton.rxbinding\rxbinding\0.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.jakewharton.rxbinding-rxbinding-0.4.0_e9e550861ee2e05e70ab21fa9ee829c29325232e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.trello\rxlifecycle\0.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3a98a50c56978d02c0651d12f5a26c3e7c31c397">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.trello-rxlifecycle-0.6.1_f45d68d9a6c93e9c1d086eb7e502d4069e7e26a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\okio-1.8.0_06f7f952010e37a20e0067d81e65675288b9e24f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_20b7f623efd2cdd10ed3c9049cb9b3869132a24c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_fc6d109c83c05cddded4b5ea732ed5dd7c938086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.trello\rxlifecycle-components\0.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c90d2e1f0959b6e1f312b9f53049a342f0e82df">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.trello-rxlifecycle-components-0.6.1_0957248e723d52a9113fab07e03a21b2ea118339.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.wang.avi\library\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="476390e81d32f9d08f9f5aab6c2b28f314a37828">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.wang.avi-library-1.0.0_9b05870c494984f64735c3fc1e694f59b6d10018.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\2.2.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8e325e9ba5c23d635d0cfaa76c349fca83101f8a">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\jp.wasabeef-recyclerview-animators-2.2.3_5f7fda3d9a0035a6891b69804992ec3f72b64947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_947f9fc2b5e4b4481aad1dee1d148867be73cfde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.realm\realm-android\0.87.5\ab4e1fead1380252dad0e95658e53ea0c113e89c\realm-android-0.87.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ab4e1fead1380252dad0e95658e53ea0c113e89c">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\realm-android-0.87.5_ad9fb2ca986facfcc79da93b8a0509c4fc982819.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.yqritc\recyclerview-flexibledivider\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de2a8ef4f859178c128c931b0f5ce0fe31919670">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.yqritc-recyclerview-flexibledivider-1.4.0_c5933ff69fd26f0f00b9cf112f7b275f68c109d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.1.0_a922f2c9139fd2cbbf2500b5aa528f1e500fa2f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_11e5c01617ee667d4a45ba948a656c898b69cbfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\cn.bingoogolapple\bga-refreshlayout\1.1.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ae13fcdb2db8751cee77b12c51987c226eaf005e">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\cn.bingoogolapple-bga-refreshlayout-1.1.6_614c27f3c14ce8bbf7574f3676be23b234eb3dab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_8a11472bb5530c0d1e4c71875a1fe55e096fd317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.0.1_4f00125e69ee86f316a1e271821ff0894ca35a02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_e6c105b658436293cdfe5da4113e072140eed083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_39dfaa0af1e5d42e45a0ee10656e731385047b15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.zhy-okhttputils-2.6.2_c24919d85e9165a24e46b070b83bcbcf78aa8def.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.ogaclejapan.smarttablayout\library\1.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d16ffcc50b1dfa726cf978ea9f0a949cdd70e7d">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.ogaclejapan.smarttablayout-library-1.6.1_8c060369fc41f63aeb29295df5d4bdba45e29739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.ogaclejapan.smarttablayout\utils-v4\1.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7dc4e0ea5b06183f6b32f08c5db6bcb6ef79c02a">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.ogaclejapan.smarttablayout-utils-v4-1.6.1_03eecac3ed1fc9d4c3f9d35c0c351b0d1f23c36d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_555f7581080be391f1027c5cf438aaea115e0d55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ecc2b86811969060796c59e843db40ab79098192.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.github.fafaldo\fab-toolbar\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="914655ea8bbd3367dd5cebf2282e636cd3d95389">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.github.fafaldo-fab-toolbar-1.2.0_e94c690b49456193c794af2eff200204019d4b09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a4afea5b4e452fb92bc53fa70df1006f1dbcf429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\gson-2.7_2e85dbf641c4a16c73925139bd4ff50ebb0450dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_13a9a15240f2f3ba89fef1dfec392a8d84f24935.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_133034d91fec6bb1c49d105a057d8c1e9f597df1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_54bcbb2752754f14dad2bfc66cabb000da61e677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_02cdaa5f093e78b272a8b951b62057cb62740b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_2ea39afb3973a142a4b831a99bc4e2df1de6a0a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_54f6e031e1b284378b79e157fedbc714e54847b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_80e9a33aa00a28ead1c6ab7c3de0e9a612431309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_fadd2209185315f0e075de5c8f5744f0a3153236.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.0.1\345b89f45d02d8b09400b472fab7b7e38f4ede1f\butterknife-annotations-8.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.0.1_d68cbb7df7b38f22336b8903b04c2a5efd092eaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_ee4f1c18ed24c75fc74ff868118b9304902258fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\android_studio\project_github\MyGroupPurchase\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_e9323e60d1cc1e2b8a11fcf721d70a34d6959f20.jar" />
+    </item>
+
+</items>
